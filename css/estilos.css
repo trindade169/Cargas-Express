@@ -50,5 +50,21 @@ nav a:hover{
     display: flex;
     flex-wrap: wrap;
     text-align: justify;
-    
+    justify-content: center;
+}
+.quem-somos .titulo{
+    font-family: "Roboto";
+    font-size: 1.4em;
+    color: #808080;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+.quem-somos .texto{
+    font-family: "Montserrat";
+    color: #3789B2;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.quem-somos span{
+    font-family: "Mont";
 }
