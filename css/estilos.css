@@ -8,3 +8,47 @@
 img{
     max-width: 100%;
 }
+head{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 40%;
+    float: left;
+}
+.logo{
+    width: 25%;
+}
+nav{
+    width: 60%;
+    float: right;
+}
+nav a{
+    color: #808080;
+    text-transform: uppercase;
+    display: inline;
+    padding: 7px 15px;
+    margin: 0 10px;
+    transition: blackground-color 0.5s ease-in-out;
+}
+nav a:hover{
+    color: #FFF;
+    background-color: #3789B2;
+}
+.baner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.quem-somos{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    
+}
