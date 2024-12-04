@@ -38,7 +38,7 @@ nav a:hover{
     color: #FFF;
     background-color: #3789B2;
 }
-.baner{
+.banner{
     display: flex;
     align-items: center;
     justify-content: space-between;
