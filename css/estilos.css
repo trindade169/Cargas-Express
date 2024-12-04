@@ -169,5 +169,21 @@ form button:hover{
     display: flex;
     align-items: center;
     color: #FFF;
-    
+}
+.contato a:hover{
+    background-color: #075E54;
+}
+.contato img{
+    width: 36px;
+    padding: 0 10px 0 0 ;
+}
+footer{
+    background-color: #808080;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-size: 0.7em;
+    font-family: "Montserrat";
 }
